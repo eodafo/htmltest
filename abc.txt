@@ -2,7 +2,6 @@ This is 1 change.
 
 This is change 2.
 
-change 3 is me in IDEA:
+this is change 4g
 
-this is change 4 from VS Code.
-
+my change is 7
